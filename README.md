@@ -1,5 +1,5 @@
 # Présentation
- Un jeu (Piere - Papier - Ciseaux) avec la machine (Exercice Front-end).
+ Un jeu "Piere - Papier - Ciseaux" avec la machine (Exercice Front-end).
 
 # Technologies 
  HTML / CSS / JavaScript
